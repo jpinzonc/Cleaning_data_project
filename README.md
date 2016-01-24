@@ -1,7 +1,7 @@
 # Cleaning_data_project
 Final Project
 
-This script was made on R (3.2.2) as part of the final project of the Getting and Cleaning Data Course Project. 
+This script run_analysis.R was created on R (3.2.2) as part of the final project of the Getting and Cleaning Data Course Project. 
 The script needs the packages dplyr and tidyr installed on R. 
 
 The project uses data from an experiment on Human Activity Recognition Using Smartphones
